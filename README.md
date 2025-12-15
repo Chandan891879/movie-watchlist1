@@ -42,30 +42,4 @@ npm install
 npm start
 ```
 
-### 🔧 Frontend :
-
-```
-cd CineScope/frontend
-npm install
-npm start
-```
-
-🔑 Environment Variables (Backend)
-Variable	  : Description
-MONGO_URI	  : Your MongoDB Atlas URI
-JWT_SECRET  : A strong secret for JWT
-
-📡 APIs Used
-OMDb API — movie search data
-API Key required: You can get your free key here
-
-👨‍💻 Author
-Prince Singh
-• LinkedIn : https://www.linkedin.com/in/prince-singh-dev
-
-# OUTPUT 
-
-![Image](https://github.com/user-attachments/assets/89e1349c-8d74-41ce-bd47-92cce448083a)
-
-📝 License
-This project is licensed under the MIT License — feel free to use and improve it.
+ 
